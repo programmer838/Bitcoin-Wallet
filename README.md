@@ -77,7 +77,8 @@ Deposit coins to this address: 1GpTboUKAWgs2yGaNhZYTsDGNbqwxYGJUp
 ```
 
 ```
-send_coins("a", 1GpTboUKAWgs2yGaNhZYTsDGNbqwxYGJUp, 1)
+send_coins("a", "1GpTboUKAWgs2yGaNhZYTsDGNbqwxYGJUp",10000)
+
 ```
 
 6) Check wallet balance:
