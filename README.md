@@ -42,7 +42,7 @@ Output:
 ```
 -------------------------------------
 Receiving wallet name: "a"
-Deposit coins to this address: 15hk6ZBRqKNsKXz3igZ7o8qnYkHoQgqgWK
+Deposit coins to this address: "15hk6ZBRqKNsKXz3igZ7o8qnYkHoQgqgWK"
 -------------------------------------
 ```
 
