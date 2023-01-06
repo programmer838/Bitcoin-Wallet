@@ -72,7 +72,7 @@ Wallet balance:  80000.0 (8000000000000 Sats)
 ```
 -------------------------------------
 Receiving wallet name: "b"
-Deposit coins to this address: 1GpTboUKAWgs2yGaNhZYTsDGNbqwxYGJUp
+Deposit coins to this address: "1GpTboUKAWgs2yGaNhZYTsDGNbqwxYGJUp"
 -------------------------------------
 ```
 
