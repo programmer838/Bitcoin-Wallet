@@ -123,7 +123,6 @@ Enter wallet name to send funds from: wallet_A
 Enter address to send funds to: mhPTUtcGhSQB9dKAez7zVzoGmga9q2wspa
 Enter amount to send: 1666
 Transaction success!
-Transaction ID: 6693aa465bdacb7ee0db709e631c8e035d149e13e6d95468534975e091351da1
 ```
 
 
