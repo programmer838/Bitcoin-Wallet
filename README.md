@@ -24,6 +24,29 @@ Installation
 Usage
 ========
 
+
+- Once the program is started a set of options is shown to the user:
+
+```
+---------------------------------------
+Welcome to Bitcoin-Wallet by Qasim Ijaz
+---------------------------------------
+
+1 - Import wallet
+2 - Create a new wallet
+3 - Show all wallets
+4 - Show wallet balance
+5 - Receive funds
+6 - Send funds
+7 - Delete all local wallets
+8 - Exit
+
+Enter an option: 
+```
+
+- Users can enter options (1-8) and the program will allow the user to do what the corresponding text says.
+
+
 To showcase the features i will send coins from one wallet to another:
 
 1) Create 2 BTC testnet wallets:
