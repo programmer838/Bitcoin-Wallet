@@ -13,6 +13,14 @@ Features
 - Show Wallet Balance
 - Send And Receive Coins
 
+Installation
+=============
+
+- Run ```git clone https://github.com/programmer838/Bitcoin-Wallet/```
+- Run ```cd Bitcoin-Wallet```
+- Then run ```pip install -r requirements.txt```
+- Finally to run the program type ```python3 wallet.py```
+
 Usage
 ========
 
