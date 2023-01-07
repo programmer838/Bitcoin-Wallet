@@ -18,7 +18,7 @@ Usage
 
 To showcase the features i will send coins from one wallet to another:
 
-- Create 2 BTC testnet wallets:
+1) Create 2 BTC testnet wallets:
 
 ```
 generate_new_wallet()
@@ -63,5 +63,66 @@ Write these words down on a peice of
 paper and keep them safe and secure!
 ```
 
+2) Derive addresses to receive coins
 
+```
+recieve_coins()
+recieve_coins()
+```
+
+Output:
+
+```
+Enter wallet name: wallet_A
+-------------------------------------
+Receiving wallet name: "wallet_A".
+Deposit coins to this address: "mxCmSiMAbDAEoUxeU1EoToLTJmt9t2LcmW".
+-------------------------------------
+Enter wallet name: wallet_B
+-------------------------------------
+Receiving wallet name: "wallet_B".
+Deposit coins to this address: "mhPTUtcGhSQB9dKAez7zVzoGmga9q2wspa".
+-------------------------------------
+```
+
+3) Fund ```wallet_A```
+
+- Visit a Bitcoin testnet faucet like https://coinfaucet.eu/en/btc-testnet/
+- Paste address into faucet
+
+![Screenshot from 2023-01-07 00-08-07](https://user-images.githubusercontent.com/71629437/211120361-ab9123c5-4b93-4488-a0ae-7ab669003abc.png)
+
+
+4) Check the transaction was successful by printing wallet balance
+
+```
+print_wallet_balance()
+```
+
+Output:
+```
+Enter wallet name: wallet_A
+Retrieving updated wallet balance...
+Nearly done...
+
+-------------------------------------
+Wallet name:     "wallet_A"
+Wallet balance:  0.01666225 BTC (1666225 sat)
+-------------------------------------
+```
+
+5) Send coins to ```wallet_B``` using ```wallet_A``` funds
+
+```
+send_coins()
+```
+
+Output:
+```
+Enter wallet name to send funds from: wallet_A
+Enter address to send funds to: mhPTUtcGhSQB9dKAez7zVzoGmga9q2wspa
+Enter amount to send: 1666
+Transaction success!
+Transaction ID: 6693aa465bdacb7ee0db709e631c8e035d149e13e6d95468534975e091351da1
+```
 
