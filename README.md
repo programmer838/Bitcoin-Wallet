@@ -126,3 +126,22 @@ Transaction success!
 Transaction ID: 6693aa465bdacb7ee0db709e631c8e035d149e13e6d95468534975e091351da1
 ```
 
+
+6) Check if coins arrived at ```wallet_B```
+
+```
+print_wallet_balance()
+```
+
+Output:
+
+```
+Enter wallet name: wallet_B
+Retrieving updated wallet balance...
+Nearly done...
+
+-------------------------------------
+Wallet name:     "wallet_B"
+Wallet balance:  0.00001666 BTC (1666 sat)
+-------------------------------------
+```
