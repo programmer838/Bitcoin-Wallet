@@ -152,3 +152,7 @@ Wallet name:     "wallet_B"
 Wallet balance:  0.00001666 BTC (1666 sat)
 -------------------------------------
 ```
+
+Contributors
+======
+Qasim Ijaz --- Author
