@@ -66,8 +66,8 @@ paper and keep them safe and secure!
 2) Derive addresses to receive coins
 
 ```
-recieve_coins()
-recieve_coins()
+receive_coins()
+receive_coins()
 ```
 
 Output:
